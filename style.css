@@ -1,0 +1,6 @@
+.text-red{
+  color: yellow
+  background-color: blue
+  
+}
+h1 .text-red{ color: r;}
